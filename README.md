@@ -51,6 +51,28 @@ To play with more than four players, you will need to create new colored player 
 
 ---
 
+## 🎲 How to Play
+
+The general gameflow and score tallying is managed by the Dealerbot.
+
+### Game Setup
+1.  **Power On:** Turn on the Dealerbot. It will initialize and ask you to place the player tags.
+2.  **Start Game:** Select the FLIP7 game from the menu. The Dealer will have you confirm the score to play to.
+3.  **Register Players:** The Dealer will spin around and scan all player tags to determine the number of players for the game.
+
+### Playing a Round
+4.  **Initial Deal:** One card is dealt to each player. Each player must confirm if you received a special card (e.g., Freeze or Flip3).
+5.  **Special Cards:** When a special card is received, the Dealer will ask you who to apply it to.
+6.  **Take Your Turn:** When it's your turn, the Dealer will ask if you want to **Hit** (take a card) or **Stand**.
+7.  **Report Outcome:** After choosing to Hit, follow the screen prompts to report the result: "Bust", "Special Card", "Seven Cards", or "Continue to next player".
+8.  **Round End:** The round continues until all players have either stood, busted, been frozen, or received 7 cards.
+
+### Scoring & Winning
+8.  **Enter Score:** After the round, the Dealer will turn to each player to have them enter their score.
+9.  **Check for Winner:** The first player to achieve the score set at the start of the game wins! If there is no winner yet, the Dealer will begin a new round.
+
+---
+
 ## 🙏 Acknowledgements
 
 A huge thank you to **WKoA** for the original modularized Card Dealer code which served as the foundation for this project. You can find the original repository [here](https://github.com/Reginald-Gillespie/CardDealerModularized/releases/tag/v1.2.1).
