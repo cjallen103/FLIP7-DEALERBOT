@@ -12,6 +12,7 @@ This project is based on the modularized UNO code from WKoA. To adapt it for FLI
 * **🧠 Memory Optimized:** To fit on an Arduino Nano, all other games and unused functions from the original `.ino` file have been removed.
 * **⚙️ Code Refactored:** Some of the main dealer code has been refactored to use less memory.
 * **🧩 CAD Files Included:** Includes a 3D printable insert to adapt the dealer for the narrower FLIP7 cards.
+* **👥 Up to 8-Players:** Firmware and instructions are included to expand the game for up to 8 players.
 
 ---
 
