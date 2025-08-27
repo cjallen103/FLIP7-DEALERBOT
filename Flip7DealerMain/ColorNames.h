@@ -23,6 +23,9 @@
 //            - change NUM_PLAYER_COLORS to 4
 //            - remove the WHIT through DBLU rows in the colorNames list
 //            - remove the same rows in the defaultColors list
+//
+// Note: The colors I have below work. If you pick two colors that are too similar, the program will get confused. For example,
+//  when I first made this, I printed a white tag and a grey tag. The RGB values for these are very similar and the program thought the tags were the same color.
 //==================================================================
 
 #define TOTAL_COLORS (NUM_PLAYER_COLORS + 1)    // Do not edit this line
