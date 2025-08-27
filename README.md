@@ -25,7 +25,7 @@ Follow these steps to get the game running on your Dealerbot.
 
 2.  **Setup Arduino IDE**
     * Follow the setup instructions provided on a post in the Crunchlabs Discord.
-    * > **Note:** The following Discord link is only accessible to members of the Crunchlabs Discord server. [Link to Arduino Setup Instructions](https://discord.com/channels/1229106258749948056/1367718391196029030/1367718391196029030).
+    * > **Note:** The following Discord link is only accessible to members of the Crunchlabs Discord server. [Link to Arduino Setup Instructions](https://discord.com/channels/1229106258749948056/1365396698138148894/1365396881693343845).
 
 3.  **Upload to Dealerbot**
     * Open the `Flip7DealerMain.ino` file in the Arduino IDE.
