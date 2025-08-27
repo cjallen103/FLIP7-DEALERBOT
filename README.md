@@ -24,7 +24,7 @@ Follow these steps to get the game running on your Dealerbot.
     * Click the green `Code` button on this page and select `Download ZIP`, or clone the repository.
 
 2.  **Setup Arduino IDE**
-    * You must configure your Arduino IDE to work with the Hack Pack hardware. Follow the setup instructions provided on the Crunchlabs Discord.
+    * Follow the setup instructions provided on a post in the Crunchlabs Discord.
     * > **Note:** The following Discord link is only accessible to members of the Crunchlabs Discord server. [Link to Arduino Setup Instructions](https://discord.com/channels/1229106258749948056/1367718391196029030/1367718391196029030).
 
 3.  **Upload to Dealerbot**
