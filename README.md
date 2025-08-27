@@ -68,8 +68,8 @@ The general gameflow and score tallying is managed by the Dealerbot.
 9.  **Round End:** The round continues until all players have either stood, busted, been frozen, or received 7 cards.
 
 ### Scoring & Winning
-8.  **Enter Score:** After the round, the Dealer will turn to each player to have them enter their score.
-9.  **Check for Winner:** The first player to achieve the score set at the start of the game wins! If there is no winner yet, the Dealer will begin a new round.
+9.  **Enter Score:** After the round, the Dealer will turn to each player to have them enter their score.
+10.  **Check for Winner:** The first player to achieve the score set at the start of the game wins! If there is no winner yet, the Dealer will begin a new round.
 
 ---
 
